@@ -1,2 +1,9 @@
+.container-fluid {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+}
 
-/* Your CSS Code here. */
+.row-1 {
+	
+}
